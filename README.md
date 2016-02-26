@@ -1,2 +1,2 @@
 # cpp-grafos
-Lenguage c++ librería de grafos
+Lenguaje c++ librería de grafos
